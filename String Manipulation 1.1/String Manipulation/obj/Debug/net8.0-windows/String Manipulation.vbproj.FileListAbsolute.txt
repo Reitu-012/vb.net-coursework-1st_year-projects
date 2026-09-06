@@ -1,0 +1,32 @@
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\bin\Debug\net8.0-windows\String Manipulation.exe
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\bin\Debug\net8.0-windows\String Manipulation.deps.json
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\bin\Debug\net8.0-windows\String Manipulation.runtimeconfig.json
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\bin\Debug\net8.0-windows\String Manipulation.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\bin\Debug\net8.0-windows\String Manipulation.pdb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\obj\Debug\net8.0-windows\String_Manipulation.Form1.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.vbproj.GenerateResource.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.AssemblyInfoInputs.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.AssemblyInfo.vb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.vbproj.CoreCompileInputs.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\obj\Debug\net8.0-windows\refint\String Manipulation.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.pdb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.genruntimeconfig.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation Solution\String Manipulation\obj\Debug\net8.0-windows\ref\String Manipulation.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\bin\Debug\net8.0-windows\String Manipulation.exe
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\bin\Debug\net8.0-windows\String Manipulation.deps.json
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\bin\Debug\net8.0-windows\String Manipulation.runtimeconfig.json
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\bin\Debug\net8.0-windows\String Manipulation.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\bin\Debug\net8.0-windows\String Manipulation.pdb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\obj\Debug\net8.0-windows\String_Manipulation.Form1.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.vbproj.GenerateResource.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.AssemblyInfoInputs.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.AssemblyInfo.vb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.vbproj.CoreCompileInputs.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\obj\Debug\net8.0-windows\refint\String Manipulation.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.pdb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\obj\Debug\net8.0-windows\String Manipulation.genruntimeconfig.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\StringManipulation\String Manipulation\obj\Debug\net8.0-windows\ref\String Manipulation.dll

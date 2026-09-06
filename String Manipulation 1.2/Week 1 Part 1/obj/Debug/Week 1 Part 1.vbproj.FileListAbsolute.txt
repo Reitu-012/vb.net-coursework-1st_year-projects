@@ -1,0 +1,26 @@
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\bin\Debug\Week 1 Part 1.exe.config
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\bin\Debug\Week 1 Part 1.exe
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\bin\Debug\Week 1 Part 1.pdb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\bin\Debug\Week 1 Part 1.xml
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.vbproj.AssemblyReference.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week_1_Part_1.Form1.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week_1_Part_1.Resources.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.vbproj.GenerateResource.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.vbproj.CoreCompileInputs.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.exe
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.xml
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.pdb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\My Projects\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.exe.config
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\bin\Debug\Week 1 Part 1.exe.config
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\bin\Debug\Week 1 Part 1.exe
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\bin\Debug\Week 1 Part 1.pdb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\bin\Debug\Week 1 Part 1.xml
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.vbproj.AssemblyReference.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.exe.config
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week_1_Part_1.Form1.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week_1_Part_1.Resources.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.vbproj.GenerateResource.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.vbproj.CoreCompileInputs.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.exe
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.xml
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Week 1 Part 1 Solutions\Week 1 Part 1\obj\Debug\Week 1 Part 1.pdb
