@@ -1,0 +1,13 @@
+C:\Development Software\Array of Objects Solution\Array of Objects\bin\Debug\Array of Objects.exe.config
+C:\Development Software\Array of Objects Solution\Array of Objects\bin\Debug\Array of Objects.exe
+C:\Development Software\Array of Objects Solution\Array of Objects\bin\Debug\Array of Objects.pdb
+C:\Development Software\Array of Objects Solution\Array of Objects\bin\Debug\Array of Objects.xml
+C:\Development Software\Array of Objects Solution\Array of Objects\obj\Debug\Array_of_Objects.Form1.resources
+C:\Development Software\Array of Objects Solution\Array of Objects\obj\Debug\Array_of_Objects.Resources.resources
+C:\Development Software\Array of Objects Solution\Array of Objects\obj\Debug\Array of Objects.vbproj.GenerateResource.Cache
+C:\Development Software\Array of Objects Solution\Array of Objects\obj\Debug\Array of Objects.exe
+C:\Development Software\Array of Objects Solution\Array of Objects\obj\Debug\Array of Objects.xml
+C:\Development Software\Array of Objects Solution\Array of Objects\obj\Debug\Array of Objects.pdb
+C:\Development Software\Array of Objects Solution\Array of Objects\obj\Debug\Array_of_Objects.frmEnterData.resources
+C:\Development Software\Array of Objects Solution\Array of Objects\obj\Debug\Array_of_Objects.frmViewData.resources
+C:\Development Software\Array of Objects Solution\Array of Objects\obj\Debug\Array of Objects.vbprojResolveAssemblyReference.cache
