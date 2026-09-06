@@ -1,0 +1,39 @@
+C:\Users\SeritaR\Documents\Visual Studio 2010\Projects\01Basics\Calculator 1\Calculator 1\bin\Debug\Calculator 1.exe
+C:\Users\SeritaR\Documents\Visual Studio 2010\Projects\01Basics\Calculator 1\Calculator 1\bin\Debug\Calculator 1.pdb
+C:\Users\SeritaR\Documents\Visual Studio 2010\Projects\01Basics\Calculator 1\Calculator 1\bin\Debug\Calculator 1.xml
+C:\Users\SeritaR\Documents\Visual Studio 2010\Projects\01Basics\Calculator 1\Calculator 1\obj\x86\Debug\Calculator_1.Form1.resources
+C:\Users\SeritaR\Documents\Visual Studio 2010\Projects\01Basics\Calculator 1\Calculator 1\obj\x86\Debug\Calculator_1.Resources.resources
+C:\Users\SeritaR\Documents\Visual Studio 2010\Projects\01Basics\Calculator 1\Calculator 1\obj\x86\Debug\Calculator 1.vbproj.GenerateResource.Cache
+C:\Users\SeritaR\Documents\Visual Studio 2010\Projects\01Basics\Calculator 1\Calculator 1\obj\x86\Debug\Calculator 1.exe
+C:\Users\SeritaR\Documents\Visual Studio 2010\Projects\01Basics\Calculator 1\Calculator 1\obj\x86\Debug\Calculator 1.xml
+C:\Users\SeritaR\Documents\Visual Studio 2010\Projects\01Basics\Calculator 1\Calculator 1\obj\x86\Debug\Calculator 1.pdb
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Presentations for class\functions class 2\Calculator 1\Calculator 1\obj\x86\Debug\Calculator 1.exe
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Presentations for class\functions class 2\Calculator 1\Calculator 1\obj\x86\Debug\Calculator 1.xml
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Presentations for class\functions class 2\Calculator 1\Calculator 1\obj\x86\Debug\Calculator 1.pdb
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Presentations for class\functions class 2\Calculator 1\Calculator 1\obj\x86\Debug\Calculator_1.frmMain.resources
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Presentations for class\functions class 2\Calculator 1\Calculator 1\obj\x86\Debug\Calculator_1.Resources.resources
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Presentations for class\functions class 2\Calculator 1\Calculator 1\obj\x86\Debug\Calculator 1.vbproj.GenerateResource.Cache
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Presentations for class\functions class 2\Calculator 1\Calculator 1\bin\Debug\Calculator 1.exe
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Presentations for class\functions class 2\Calculator 1\Calculator 1\bin\Debug\Calculator 1.pdb
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Presentations for class\functions class 2\Calculator 1\Calculator 1\bin\Debug\Calculator 1.xml
+E:\SData\00Classes\0 ASDSX1\2018a\Presentations used\functions class 2\Calculator 1\Calculator 1\obj\x86\Debug\Calculator 1.exe
+E:\SData\00Classes\0 ASDSX1\2018a\Presentations used\functions class 2\Calculator 1\Calculator 1\obj\x86\Debug\Calculator 1.xml
+E:\SData\00Classes\0 ASDSX1\2018a\Presentations used\functions class 2\Calculator 1\Calculator 1\obj\x86\Debug\Calculator 1.pdb
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator 1.exe
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator 1.xml
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator 1.pdb
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\CalculateIncreaseProgram\Calculator 1\bin\Debug\Calculator 1.exe
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\CalculateIncreaseProgram\Calculator 1\bin\Debug\Calculator 1.pdb
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\CalculateIncreaseProgram\Calculator 1\bin\Debug\Calculator 1.xml
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator_1.frmMain.resources
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator_1.Resources.resources
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator 1.vbproj.GenerateResource.Cache
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\DebuggingFiles\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator 1.exe
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\DebuggingFiles\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator 1.xml
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\DebuggingFiles\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator 1.pdb
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\DebuggingFiles\CalculateIncreaseProgram\Calculator 1\bin\Debug\Calculator 1.exe
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\DebuggingFiles\CalculateIncreaseProgram\Calculator 1\bin\Debug\Calculator 1.pdb
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\DebuggingFiles\CalculateIncreaseProgram\Calculator 1\bin\Debug\Calculator 1.xml
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\DebuggingFiles\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator_1.frmMain.resources
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\DebuggingFiles\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator_1.Resources.resources
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\02Debugging\DebuggingFiles\CalculateIncreaseProgram\Calculator 1\obj\x86\Debug\Calculator 1.vbproj.GenerateResource.Cache
