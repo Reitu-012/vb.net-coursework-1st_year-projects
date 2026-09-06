@@ -1,0 +1,36 @@
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\bin\Debug\net8.0-windows\Array Part 1.exe
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\bin\Debug\net8.0-windows\Array Part 1.deps.json
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\bin\Debug\net8.0-windows\Array Part 1.runtimeconfig.json
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\bin\Debug\net8.0-windows\Array Part 1.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\bin\Debug\net8.0-windows\Array Part 1.pdb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array_Part_1.Form1.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array_Part_1.frmArrayWithValues.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.vbproj.GenerateResource.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.AssemblyInfoInputs.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.AssemblyInfo.vb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.vbproj.CoreCompileInputs.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\refint\Array Part 1.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.pdb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.genruntimeconfig.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\ref\Array Part 1.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Unti 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array_Part_1.frmEmptyArray.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\bin\Debug\net8.0-windows\Array Part 1.exe
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\bin\Debug\net8.0-windows\Array Part 1.deps.json
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\bin\Debug\net8.0-windows\Array Part 1.runtimeconfig.json
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\bin\Debug\net8.0-windows\Array Part 1.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\bin\Debug\net8.0-windows\Array Part 1.pdb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array_Part_1.Form1.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array_Part_1.frmArrayWithValues.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array_Part_1.frmEmptyArray.resources
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.vbproj.GenerateResource.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.AssemblyInfoInputs.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.AssemblyInfo.vb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.vbproj.CoreCompileInputs.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\refint\Array Part 1.dll
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.pdb
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\Array Part 1.genruntimeconfig.cache
+C:\Users\rrakh\OneDrive\Documents\Uni work\Develeopment Software\Semester 2\Unit 1\Lesson 1\Array\Array Part 1 Solution\Array Part 1\obj\Debug\net8.0-windows\ref\Array Part 1.dll
