@@ -1,0 +1,42 @@
+C:\Users\admin\Downloads\Control Examples\Control Examples 2 RadioButtons\Control Examples 1\bin\Debug\Control Examples 1.exe.config
+C:\0SRibeiroT121\ASDSX1 group C2 Tue\Week09Controls\Control Examples 2 RadioButtons\Control Examples 1\bin\Debug\Control Examples 1.exe.config
+C:\0SRibeiroT121\ASDSX1 group C2 Tue\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\bin\Debug\Control Examples 1.exe.config
+C:\0SRibeiroT121\ASDSX1 group C2 Tue\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\bin\Debug\Control Examples 1.exe
+C:\0SRibeiroT121\ASDSX1 group C2 Tue\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\bin\Debug\Control Examples 1.pdb
+C:\0SRibeiroT121\ASDSX1 group C2 Tue\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\bin\Debug\Control Examples 1.xml
+C:\0SRibeiroT121\ASDSX1 group C2 Tue\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control_Examples_1.Form1.resources
+C:\0SRibeiroT121\ASDSX1 group C2 Tue\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control_Examples_1.Resources.resources
+C:\0SRibeiroT121\ASDSX1 group C2 Tue\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control Examples.vbproj.GenerateResource.Cache
+C:\0SRibeiroT121\ASDSX1 group C2 Tue\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control Examples 1.exe
+C:\0SRibeiroT121\ASDSX1 group C2 Tue\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control Examples 1.xml
+C:\0SRibeiroT121\ASDSX1 group C2 Tue\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control Examples 1.pdb
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\bin\Debug\Control Examples 1.exe.config
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control Examples 1.exe
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control Examples 1.xml
+F:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control Examples 1.pdb
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\bin\Debug\Control Examples 1.exe.config
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control Examples 1.exe
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control Examples 1.xml
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 2 RadioButtons changed\Control Examples 1\obj\Debug\Control Examples 1.pdb
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 2 Combo Box original\Control Examples 1\bin\Debug\Control Examples 1.exe.config
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 2 Combo Box original\Control Examples 1\obj\Debug\Control Examples 1.exe
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 2 Combo Box original\Control Examples 1\obj\Debug\Control Examples 1.xml
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 2 Combo Box original\Control Examples 1\obj\Debug\Control Examples 1.pdb
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 3 Combo Box original\Control Examples 1\bin\Debug\Control Examples 1.exe.config
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 3 Combo Box original\Control Examples 1\obj\Debug\Control Examples 1.exe
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 3 Combo Box original\Control Examples 1\obj\Debug\Control Examples 1.xml
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 3 Combo Box original\Control Examples 1\obj\Debug\Control Examples 1.pdb
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 3 Combo Box original\Control Examples 1\bin\Debug\Control Examples 1.exe
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 3 Combo Box original\Control Examples 1\bin\Debug\Control Examples 1.pdb
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 3 Combo Box original\Control Examples 1\bin\Debug\Control Examples 1.xml
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 3 Combo Box original\Control Examples 1\obj\Debug\Control_Examples_1.Form1.resources
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 3 Combo Box original\Control Examples 1\obj\Debug\Control_Examples_1.Resources.resources
+E:\SeritaBak\00CurrentData\0 ASDSX1\2018a\Week09Controls\Control Examples 3 Combo Box original\Control Examples 1\obj\Debug\Control Examples.vbproj.GenerateResource.Cache
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\06Controls\programs\Control Examples 3 Combo Box original\Control Examples 1\bin\Debug\Control Examples 1.exe.config
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\06Controls\programs\Control Examples 3 Combo Box original\Control Examples 1\obj\Debug\Control Examples 1.exe
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\06Controls\programs\Control Examples 3 Combo Box original\Control Examples 1\obj\Debug\Control Examples 1.xml
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\06Controls\programs\Control Examples 3 Combo Box original\Control Examples 1\obj\Debug\Control Examples 1.pdb
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\06Controls\programs\Control Examples 3 Combo Box\Control Examples 1\bin\Debug\Control Examples 1.exe.config
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\06Controls\programs\Control Examples 3 Combo Box\Control Examples 1\obj\Debug\Control Examples 1.exe
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\06Controls\programs\Control Examples 3 Combo Box\Control Examples 1\obj\Debug\Control Examples 1.xml
+E:\SData\00Classes\0 ASDSX1\2020a\presentations\06Controls\programs\Control Examples 3 Combo Box\Control Examples 1\obj\Debug\Control Examples 1.pdb
