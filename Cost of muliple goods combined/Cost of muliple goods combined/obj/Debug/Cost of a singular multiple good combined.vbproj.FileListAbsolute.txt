@@ -1,0 +1,10 @@
+C:\Users\rrakh\Documents\Develeopment Software\Cost of muliple goods combined\Cost of muliple goods combined\obj\Debug\Cost_of_muliple_goods_combined.Form1.resources
+C:\Users\rrakh\Documents\Develeopment Software\Cost of muliple goods combined\Cost of muliple goods combined\obj\Debug\Cost_of_muliple_goods_combined.Resources.resources
+C:\Users\rrakh\Documents\Develeopment Software\Cost of muliple goods combined\Cost of muliple goods combined\obj\Debug\Cost of a singular multiple good combined.vbproj.GenerateResource.Cache
+C:\Users\rrakh\Documents\Develeopment Software\Cost of muliple goods combined\Cost of muliple goods combined\obj\Debug\Cost of muliple goods combined.exe
+C:\Users\rrakh\Documents\Develeopment Software\Cost of muliple goods combined\Cost of muliple goods combined\obj\Debug\Cost of muliple goods combined.xml
+C:\Users\rrakh\Documents\Develeopment Software\Cost of muliple goods combined\Cost of muliple goods combined\obj\Debug\Cost of muliple goods combined.pdb
+C:\Users\rrakh\Documents\Develeopment Software\Cost of muliple goods combined\Cost of muliple goods combined\bin\Debug\Cost of muliple goods combined.exe.config
+C:\Users\rrakh\Documents\Develeopment Software\Cost of muliple goods combined\Cost of muliple goods combined\bin\Debug\Cost of muliple goods combined.exe
+C:\Users\rrakh\Documents\Develeopment Software\Cost of muliple goods combined\Cost of muliple goods combined\bin\Debug\Cost of muliple goods combined.pdb
+C:\Users\rrakh\Documents\Develeopment Software\Cost of muliple goods combined\Cost of muliple goods combined\bin\Debug\Cost of muliple goods combined.xml

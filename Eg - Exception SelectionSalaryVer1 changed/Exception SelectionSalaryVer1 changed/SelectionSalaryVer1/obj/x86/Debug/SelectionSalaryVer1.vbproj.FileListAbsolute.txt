@@ -1,0 +1,30 @@
+C:\Users\st\Documents\SR\SelectionSalaryVer1\SelectionSalaryVer1\bin\Debug\SelectionSalaryVer1.exe
+C:\Users\st\Documents\SR\SelectionSalaryVer1\SelectionSalaryVer1\bin\Debug\SelectionSalaryVer1.pdb
+C:\Users\st\Documents\SR\SelectionSalaryVer1\SelectionSalaryVer1\bin\Debug\SelectionSalaryVer1.xml
+C:\Users\st\Documents\SR\SelectionSalaryVer1\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.Form1.resources
+C:\Users\st\Documents\SR\SelectionSalaryVer1\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.Resources.resources
+C:\Users\st\Documents\SR\SelectionSalaryVer1\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.vbproj.GenerateResource.Cache
+C:\Users\st\Documents\SR\SelectionSalaryVer1\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.exe
+C:\Users\st\Documents\SR\SelectionSalaryVer1\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.xml
+C:\Users\st\Documents\SR\SelectionSalaryVer1\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.pdb
+C:\Users\st\Documents\SR\SelectionSalaryVer1 original\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.exe
+C:\Users\st\Documents\SR\SelectionSalaryVer1 original\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.xml
+C:\Users\st\Documents\SR\SelectionSalaryVer1 original\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.pdb
+C:\0SRibeiroT115\ASDSX1 group C4\Week09Controls\SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.exe
+C:\0SRibeiroT115\ASDSX1 group C4\Week09Controls\SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.xml
+C:\0SRibeiroT115\ASDSX1 group C4\Week09Controls\SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.pdb
+C:\0SRibeiroT115\ASDSX1 group C4\Week09Controls\SelectionSalaryVer1 changed\SelectionSalaryVer1\bin\Debug\SelectionSalaryVer1.exe
+C:\0SRibeiroT115\ASDSX1 group C4\Week09Controls\SelectionSalaryVer1 changed\SelectionSalaryVer1\bin\Debug\SelectionSalaryVer1.pdb
+C:\0SRibeiroT115\ASDSX1 group C4\Week09Controls\SelectionSalaryVer1 changed\SelectionSalaryVer1\bin\Debug\SelectionSalaryVer1.xml
+C:\0SRibeiroT115\ASDSX1 group C4\Week09Controls\SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.Form1.resources
+C:\0SRibeiroT115\ASDSX1 group C4\Week09Controls\SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.Resources.resources
+C:\0SRibeiroT115\ASDSX1 group C4\Week09Controls\SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.vbproj.GenerateResource.Cache
+C:\0SRibeiroT115\ASDSX1 group C4\Week11Exceptions\Exception SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.exe
+C:\0SRibeiroT115\ASDSX1 group C4\Week11Exceptions\Exception SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.xml
+C:\0SRibeiroT115\ASDSX1 group C4\Week11Exceptions\Exception SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.pdb
+C:\0SRibeiroT115\ASDSX1 group C4\Week11Exceptions\Exception SelectionSalaryVer1 changed\SelectionSalaryVer1\bin\Debug\SelectionSalaryVer1.exe
+C:\0SRibeiroT115\ASDSX1 group C4\Week11Exceptions\Exception SelectionSalaryVer1 changed\SelectionSalaryVer1\bin\Debug\SelectionSalaryVer1.pdb
+C:\0SRibeiroT115\ASDSX1 group C4\Week11Exceptions\Exception SelectionSalaryVer1 changed\SelectionSalaryVer1\bin\Debug\SelectionSalaryVer1.xml
+C:\0SRibeiroT115\ASDSX1 group C4\Week11Exceptions\Exception SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.Form1.resources
+C:\0SRibeiroT115\ASDSX1 group C4\Week11Exceptions\Exception SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.Resources.resources
+C:\0SRibeiroT115\ASDSX1 group C4\Week11Exceptions\Exception SelectionSalaryVer1 changed\SelectionSalaryVer1\obj\x86\Debug\SelectionSalaryVer1.vbproj.GenerateResource.Cache
